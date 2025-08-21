@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chats
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# ChatWithMe_app
+A modern and responsive Flutter chat application built with Firebase Authentication and Cloud Firestore. The app provides a clean user interface, smooth navigation, and a real-time messaging experience.
+>>>>>>> 8e1c9e4a3d98d1861d695d87f1b13490eeb9392d
